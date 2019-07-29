@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WelcomeApp</string>
+    <string name="hello_world">Bienvenue dans le développement d\'applications Android!</string>
+    <string name="todo">FAIRE</string>
+</resources>
